@@ -1,2 +1,47 @@
 # Gdansk-overlays-for-CS2
 Map Overlays for my custom Gdańsk map in Cities Skylines 2
+
+Map created with mods:
+- 529 Tiles
+- Move It
+- Unified Icon Library
+- l18n EveryWhere
+- Anarchy
+- Find It
+- Asset Icon Library
+- Advanced Line Tool
+- AreaBucket
+- Traffic
+- Plop the Growables
+- Better Bulldozer
+- Zoning Toolkit
+- Recolor
+- Toggle Overlays
+- Zone Color Changer
+- ExtraLib
+- [G87] Dirty Roads
+- Extr4aDetailingTools
+- ExtraAssetsImporter
+- Urban Art Decal Pack
+- Show Text Trends
+- Traffic Lights Enhancement Alpha
+- Eastern Europe Pack
+- French Pack
+- UK Pack
+- German Pack
+- Japan Pack
+- China Pack
+- Bridge Expansion Pack
+- Time & Weather Anarchy
+- More Healthcare
+- USA Southwest Pack
+- KSCS University of Computer Technology and Design Pack
+- Building Use
+- Combined Park and Road Maintenance Depot
+- Improved Building Level Info View
+- Road Builder [BETA]
+- Skyve [BETA]
+- EAI - Surfaces Pack
+- [G87] Urban Surfaces: Paving Pack
+- ExtraLandscapingTools
+- Image Overlay
